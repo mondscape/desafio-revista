@@ -1,3 +1,8 @@
-
+.contenedor {
+  width: 100vh;
+  height: 1200px;
+  display: grid;
+  grid-template-columns: repeat(12, 1fr);
+  grid-template-rows: repeat(12, 1fr); }
 
 /*# sourceMappingURL=main.css.map */
