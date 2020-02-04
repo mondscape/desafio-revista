@@ -1,9 +1,7 @@
 
-.contenedor-nav {
-    width: 100vh;
-    margin: 0 auto;
-    height: 100px;
+.menu-contenedor {
+    height: 1200px;
     display: grid;
-    grid-template-columns: repeat(13, 1fr);
-    grid-template-rows: auto
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: auto;
 }
